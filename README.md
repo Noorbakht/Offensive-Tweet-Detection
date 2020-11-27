@@ -1,24 +1,11 @@
-# twitter-scratch
+# 50.038---Computational Data Science
 
-## Project setup
+## To run the app,
+
 ```
 npm install
+http-server -c-1 -p 8010
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Under flask branch in this repository, clone and activate virtual environment.
+Then, run python NN_Tweet
