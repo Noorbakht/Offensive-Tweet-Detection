@@ -14,7 +14,7 @@ http-server -c-1 -p 8010
 ## To run the Machine Learning Model Backend,
 
 ```
-Clone code under flask-backend branch
+Clone code under flask branch
 Activate virtual environment using anaconda prompt
 Run python NN_Tweet.py
 ```
